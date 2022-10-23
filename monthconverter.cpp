@@ -1,7 +1,7 @@
 //
 // Created by Simohamed Kabbou on 23/10/2022.
 //
-#include "monthconverter.h" 
+#include "monthconverter.h"
 const char*
         MonthConverter::month[]={"","january","february"
                 ,"march","april","may","june","july","aout","september","october","november","december"};
