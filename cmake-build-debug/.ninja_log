@@ -1,0 +1,12 @@
+# ninja log v5
+0	147	1666531873258623469	build.ninja	502b1dac95c62a67
+4	760	1666531345782722688	CMakeFiles/untitled.dir/Base.cpp.o	a5293c4e006a9760
+3	764	1666531345789910563	CMakeFiles/untitled.dir/monthconverter.cpp.o	308b3696a0d798fc
+2	778	1666531345804273231	CMakeFiles/untitled.dir/main.cpp.o	9cd238bec7e3bcac
+4	778	1666531345804468233	CMakeFiles/untitled.dir/illegalmonthexception.cpp.o	fb882d09a4fe801a
+779	873	1666531345903422597	untitled	21c01a1e0f6e10cc
+8	636	1666532055679477892	CMakeFiles/untitled.dir/Base.cpp.o	8ed5ead64586c225
+7	643	1666532055688157660	CMakeFiles/untitled.dir/monthconverter.cpp.o	4b12313aecefdc6f
+7	657	1666532055702335951	CMakeFiles/untitled.dir/illegalmonthexception.cpp.o	8fb1cdde9c28b488
+6	658	1666532055701712318	CMakeFiles/untitled.dir/main.cpp.o	5c2b514a976fc054
+658	739	1666532055788107826	untitled	21c01a1e0f6e10cc
